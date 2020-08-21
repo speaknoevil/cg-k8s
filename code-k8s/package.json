@@ -2,9 +2,9 @@
   "name": "container-web-test",
   "private": true,
   "version": "0.0.1",
-  "description": "Demo app for Web container demonstrations",
+  "description": "Teset app for Web container ",
   "main": "app.js",
-  "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
+  "author": "space cowboy gsboone@gmail.com"
   "license": "Will be full of vulnerabilities!",
   "dependencies": {
     "express": "4.16.3",
